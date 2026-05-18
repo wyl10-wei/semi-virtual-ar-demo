@@ -3,9 +3,23 @@
 This repository provides demo videos for a controllable semi-virtual camera-level AR rendering interface for CAV testing.
 
 ## Demo Videos
+### Mode Selection and Background Style Control
 
-- Choose Rain/snow/night mode and change background style
-- Add rain streaks and raindrops, change intensity and blurring
-- Add snowflakes and change intensity
+[Mode selection and background style control](demos/mode_demo.mp4)
 
+This demo shows how to choose rain, snow, and night modes and change the background style.
+
+### Rain Particle Control
+
+[Rain streaks and raindrops control](demos/rain_demo.mp4)
+
+This demo shows how to add rain streaks and raindrops and adjust their intensity and blurring.
+
+### Snow Particle Control
+
+[Snowflake intensity control](demos/snow_demo.mp4)
+
+This demo shows how to add snowflakes and adjust their intensity.
+
+## Interface Description
 The interface supports real-time adjustment of weather type, particle effects, rendering intensity, motion direction, and background style.
