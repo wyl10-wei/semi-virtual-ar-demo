@@ -21,5 +21,9 @@ This demo shows how to add rain streaks and raindrops and adjust their intensity
 
 This demo shows how to add snowflakes and adjust their intensity.
 
+### Vehicle Rendering Along a Prescribed Trajectory
+
+[Render vehicles following a specified trajectory](demos/snow_demo.mp4)
+
 ## Interface Description
 The interface supports real-time adjustment of weather type, particle effects, rendering intensity, motion direction, and background style.
