@@ -25,5 +25,7 @@ This demo shows how to add snowflakes and adjust their intensity.
 
 [Render vehicles following a specified trajectory](demos/vehicle_trajectory_rendering.mp4)
 
+This demo shows how to render virtual vehicles following a specified trajectory with controllable position and pose.
+
 ## Interface Description
 The interface supports real-time adjustment of weather type, particle effects, rendering intensity, motion direction, and background style.
